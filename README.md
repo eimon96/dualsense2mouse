@@ -13,7 +13,7 @@ R1: TAB
 [mouse](https://github.com/boppreh/mouse) v0.7.1  
 [keyboard](https://github.com/boppreh/keyboard) v0.13.5  
 
-# Install Depedencies
+# Install Dependencies
 
 ```sh
 pip3 install --upgrade pydualsense
